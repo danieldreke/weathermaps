@@ -1,7 +1,7 @@
 ### Download
     git clone git@github.com:danieldreke/weathermaps.git
 
-### Weather Maps Sources
+### Source
 [opendata.dwd.de ~ Open Data Deutscher Wetterdienst](https://opendata.dwd.de/climate_environment/CDC/)
 - [Air Temperature](https://opendata.dwd.de/climate_environment/CDC/grids_germany/monthly/air_temperature_mean/)
 - [Sunshine Duration](https://opendata.dwd.de/climate_environment/CDC/grids_germany/monthly/sunshine_duration/)
